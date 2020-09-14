@@ -4,7 +4,7 @@
 
     python3 GAAP.py <google_spreadsheet_id>
 
-## Dependencies
+## Dependencies
 
 You need to have pip installed.
 
